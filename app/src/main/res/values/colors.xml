@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A09EBB</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="taytay">#FE5F55</color>
+    <color name="pastel_tay">#B8D8D8</color>
+    <color name="pinkypromise">#D3C1C3</color>
+    <color name="eggnog">#E8F8C1</color>
+    <color name="tanish">#E2D0BE</color>
+    <color name="leaves">#D1FFC6</color>
+    <color name="purple">#A09EBB</color>
+    <color name="blurrange">#F05D23</color>
+    <color name="mist">#DEFFF2</color>
+</resources>
