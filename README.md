@@ -5,4 +5,4 @@ Simple Trivia Quiz written in Kotlin.
 
 
 ![Image of Swifties Quiz app]
-(https://gdurl.com/lrvM)
+(https://gdurl.com/lrvM.png)
